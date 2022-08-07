@@ -1,11 +1,13 @@
 > psst. insert badges here later
-<div style="text-align:center"><img src = "etc/monjs-logo.png" >
-<h1> Monjs </h1>
-</div>
+<p align="center" width="100%">
+<img width = "25%" height = "25%" src = "etc/monjs-logo.png" />
+<h1 align = "center"> Monjs </h1>
+<p align = "center">🏃🏻 Fast </p>
 
-- 🏃🏻 Fast
-- ⚡ Modern
-- 😀 Developer friendly
+<p align = "center">⚡ Modern </p>
+
+<p align = "center"> 😀 Developer friendly </p>
+</p>
 
 # What is Mon?
 
