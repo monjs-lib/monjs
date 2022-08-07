@@ -1,0 +1,17 @@
+{
+  "name": "monjs",
+  "version": "1.0.0",
+  "exports": "./index.js",
+  "license": "MIT",
+  "type": "module",
+  "types": "./index.d.ts",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^4.3.1"
+  }
+}
