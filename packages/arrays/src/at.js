@@ -8,3 +8,4 @@
 export default function at(obj, index) {
 	return obj[index] ? obj[index] : undefined;
 };
+
