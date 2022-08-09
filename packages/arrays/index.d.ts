@@ -11,7 +11,7 @@
  * at(arr, 5); // => undefined
  * ```
  */
-function at<T>(obj: Array<T>, index: number): T | undefined;
+export function at<T>(obj: Array<T>, index: number): T | undefined;
 
 /**
  * Removes an index of an array
@@ -26,4 +26,4 @@ function at<T>(obj: Array<T>, index: number): T | undefined;
  * remove(arr, 5); // => [1, 2, 3] (index doesn't exist)
  *  ```
  */
- export default function remove<T>(arr: Array<T>, index: number): T;
+export function remove<T>(arr: Array<T>, index: number): Array<T>;
