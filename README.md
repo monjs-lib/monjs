@@ -1,4 +1,8 @@
-> psst. insert badges here later
+[![Contributors](https://img.shields.io/github/contributors/monjs-lib/monjs?style=for-the-badge)](https://github.com/monjs-lib/monjs/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/monjs-lib/monjs?style=for-the-badge)](https://github.com/monjs-lib/monjs/network/members)
+[![Stargazers](https://img.shields.io/github/stars/monjs-lib/monjs?style=for-the-badge)](https://github.com/monjs-lib/monjs/stargazers)
+[![Issues](https://img.shields.io/github/issues/monjs-lib/monjs?style=for-the-badge)](https://github.com/monjs-lib/monjs/issues)
+[![License](https://img.shields.io/github/license/monjs-lib/monjs?style=for-the-badge)](https://github.com/monjs-lib/monjs/blob/master/LICENSE)
 
 <p align="center" width="100%">
 <img width = "25%" height = "25%" src = "etc/monjs-logo.png" />
